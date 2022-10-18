@@ -1,5 +1,5 @@
 # e-commerce-project
 
-HTML - CSS - BOOTSRAP Responsive Project
+HTML - CSS - BOOTSTRAP Responsive Project
 
 ![ecpimg](ecommerce.png)
